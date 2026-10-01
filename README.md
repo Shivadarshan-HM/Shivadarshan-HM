@@ -1,26 +1,22 @@
 <div align="center">
 
-# `SHIVA DARSHAN`
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/cyberpunk-banner.svg" width="100%" alt="Shiva Darshan cyberpunk banner"/>
 
-### `AI/ML × FULL STACK ENGINEER`
+<br/>
 
-**Building intelligent systems. Designing digital experiences. Shipping real products.**
+<a href="https://s-dportfolio.vercel.app/"><img src="https://img.shields.io/badge/◈_PORTFOLIO-050807?style=for-the-badge&labelColor=050807&color=00ff88" /></a>
+<a href="https://github.com/SHIVADARSHAN-HM"><img src="https://img.shields.io/badge/◈_GITHUB-050807?style=for-the-badge&labelColor=050807&color=00e5ff" /></a>
+<a href="https://leetcode.com/u/Shivadarshan44/"><img src="https://img.shields.io/badge/◈_LEETCODE-050807?style=for-the-badge&labelColor=050807&color=ffb000" /></a>
 
-<br>
+<br/><br/>
 
-<a href="https://s-dportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/SHIVADARSHAN-HM">
-  <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://leetcode.com/u/Shivadarshan44/">
-  <img src="https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=%23FFA116" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%3E+booting+SHIVA_OS...;%3E+building+intelligent+systems...;%3E+engineering+full+stack+products...;%3E+solving+problems+one+commit+at+a+time...;%3E+ACCESS_GRANTED" alt="Cyberpunk typing animation"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SHIVADARSHAN-HM&label=PROFILE%20SIGNALS&color=00FF88&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=SHIVADARSHAN-HM&label=SIGNALS&color=00ff88&style=flat-square" />
 
 </div>
 
@@ -28,81 +24,93 @@
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   > INITIALIZING SHIVA DARSHAN...                       │
-│                                                          │
-│   STATUS        ● ONLINE                                │
-│   MODE          BUILD                                   │
-│   DOMAIN        AI / ML / FULL STACK                    │
-│   MISSION       TURN IDEAS INTO REAL SYSTEMS            │
-│                                                          │
-│   [████████████████████████████████████████] 100%       │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/terminal-hud.svg" width="100%" alt="Live cyberpunk telemetry HUD"/>
 
 </div>
 
-## `01 / ABOUT`
+## `01 // WHOAMI`
 
 ```text
-I don't just want to write code.
+> whoami
 
-I want to understand systems,
-build useful products,
-and turn ambitious ideas into working software.
+SHIVA DARSHAN
+AI/ML × FULL STACK ENGINEER
 
-Currently focused on:
-
-→ Artificial Intelligence & Machine Learning
-→ Generative AI
+I build software at the intersection of:
+→ Artificial Intelligence
 → Full Stack Engineering
-→ Backend Systems
-→ Data Structures & Algorithms
-→ Building products that solve real problems
+→ Developer Tools
+→ Product Design
+
+CURRENT OBJECTIVE
+Build useful systems. Understand them deeply. Ship them.
 ```
 
 ---
 
-## `02 / CURRENT OPERATING SYSTEM`
+## `02 // ACTIVE PROCESSES`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### `CORE`
+### `[ PROCESS_01 ]`
 
 ```text
-AI / ML
-████████████░░░░
+ARCHON AI
 
-FULL STACK
-██████████████░░
+Repository Intelligence
+██████████████████░░
 
-PYTHON
-██████████████░░
-
-JAVASCRIPT
-███████████░░░░░
-
-DSA
-██████████░░░░░░
+STATUS :: BUILDING
+SIGNAL :: ACTIVE
 ```
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### `CURRENT DIRECTIVES`
+### `[ PROCESS_02 ]`
 
 ```text
-[01] Learn deeply
-[02] Build continuously
-[03] Ship real products
-[04] Solve harder problems
-[05] Become an AI Engineer
+GENAI ENGINEERING
+
+LLMs / RAG / AI SYSTEMS
+██████████████░░░░░░
+
+STATUS :: LEARNING
+SIGNAL :: RISING
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `[ PROCESS_03 ]`
+
+```text
+DSA ENGINE
+
+Algorithms / Problem Solving
+████████████░░░░░░░░
+
+STATUS :: TRAINING
+SIGNAL :: LOCKED
+```
+
+</td>
+<td width="50%" valign="top">
+
+### `[ PROCESS_04 ]`
+
+```text
+PRODUCT LAB
+
+Ideas → Systems → Products
+████████████████░░░░
+
+STATUS :: ONLINE
+SIGNAL :: EXPERIMENTAL
 ```
 
 </td>
@@ -111,213 +119,142 @@ DSA
 
 ---
 
-# `03 / TECH ARSENAL`
-
-### `LANGUAGES`
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
-</p>
-
-### `FRONTEND`
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs" />
-</p>
-
-### `BACKEND / DATABASE`
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,postgres,sqlite,firebase" />
-</p>
-
-### `AI / DATA`
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-```text
-NumPy        █████████████████
-Pandas       █████████████████
-Machine Learning        → BUILDING
-Generative AI           → BUILDING
-RAG                     → EXPLORING
-LLM Systems             → EXPLORING
-```
-
-### `TOOLS / CLOUD`
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,azure,netlify,vscode" />
-</p>
-
----
-
-# `04 / PROJECTS`
+## `03 // TECH MATRIX`
 
 <div align="center">
 
-### `ARCHON AI`
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nextjs,tailwind,vite,threejs,fastapi,flask,nodejs,mongodb,postgres,sqlite,firebase,git,github,vercel,azure,vscode&perline=11" />
 
-> **Repository Intelligence for Developers**
+</div>
 
-An AI-powered system designed to understand software repositories like a senior engineer — helping developers navigate, understand and generate meaningful documentation around complex codebases.
+```text
+AI / DATA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Python      NumPy      Pandas
+Machine Learning       █████████░░░
+Generative AI          ███████░░░░░
+RAG / LLM Systems      ██████░░░░░░
 
-`AI` `LLM` `RAG` `Developer Tools`
-
----
-
-### `SD PORTFOLIO`
-
-> **Personal Digital Interface**
-
-A cinematic personal portfolio focused on modern interaction, motion, visual storytelling and premium web experiences.
-
-`Next.js` `React` `Framer Motion` `3D`
-
----
-
-### `RADIUS CRM`
-
-> **Client Relationship Infrastructure**
-
-A CRM concept focused on managing leads, clients, communication and business workflows in one system.
-
-`Full Stack` `Database` `Dashboard`
+ENGINEERING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Frontend → React / Next.js / Tailwind / Three.js
+Backend  → FastAPI / Flask / Node.js
+Data     → MongoDB / PostgreSQL / SQLite / Firebase
+Cloud    → Vercel / Azure
+```
 
 ---
 
-### `RECOVER PAY`
+# `04 // PROJECT GRID`
 
-> **Payment Recovery System**
+<div align="center">
 
-A product concept focused on helping businesses manage and recover failed or pending payments through structured workflows.
-
-`FinTech` `Automation` `Backend`
+| SYSTEM | DESCRIPTION | STATUS |
+|:---|:---|:---:|
+| **ARCHON AI** | AI-powered repository intelligence for developers | `BUILDING` |
+| **SD PORTFOLIO** | Cinematic personal digital interface | `ONLINE` |
+| **RADIUS CRM** | Client + lead relationship infrastructure | `BUILDING` |
+| **RECOVER PAY** | Payment recovery workflow system | `EXPERIMENTAL` |
 
 </div>
 
 ---
 
-# `05 / LEETCODE // PROBLEM SOLVING ENGINE`
+# `05 // LEETCODE PROTOCOL`
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Shivadarshan44/">
 
-<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Shivadarshan44&theme=dark&hide_border=true&radius=8&border=0&show_profile=true&show_solved=true&show_streak=true&show_skills=true&show_languages=true&show_heatmap=true" />
+<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Shivadarshan44&theme=dark&hide_border=true&radius=0&border=0&show_profile=true&show_solved=true&show_streak=true&show_skills=true&show_languages=true&show_heatmap=true" width="95%" alt="Shiva Darshan LeetCode statistics"/>
 
 </a>
 
-<br>
+<br/>
 
-**→ [OPEN LEETCODE PROFILE](https://leetcode.com/u/Shivadarshan44/)**
+`TARGET :: TURN ALGORITHMS INTO INSTINCT`
 
-</div>
-
----
-
-# `06 / GITHUB // SYSTEM TELEMETRY`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHIVADARSHAN-HM&show_icons=true&hide_border=true&theme=transparent&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&bg_color=00000000&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVADARSHAN-HM&layout=compact&hide_border=true&theme=transparent&title_color=00FF88&text_color=FFFFFF&bg_color=00000000&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SHIVADARSHAN-HM&theme=transparent&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-# `07 / CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVADARSHAN-HM&bg_color=00000000&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-# `08 / TROPHY ROOM`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SHIVADARSHAN-HM&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-# `09 / CONTRIBUTION PROTOCOL`
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│              BUILD → BREAK → LEARN                  │
-│                                                     │
-│              REPEAT → SHIP → SCALE                  │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# `10 / CONNECT`
-
-<div align="center">
-
-<a href="https://s-dportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-
-<a href="https://github.com/SHIVADARSHAN-HM">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/><br/>
 
 <a href="https://leetcode.com/u/Shivadarshan44/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="mailto:shivadarshan600@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN_LEETCODE_PROFILE-050807?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=050807&color=00ff88" />
 </a>
 
 </div>
 
-<br>
+---
+
+# `06 // GITHUB TELEMETRY`
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=SHIVADARSHAN-HM&show_icons=true&hide_border=true&theme=transparent&title_color=00FF88&icon_color=00E5FF&text_color=E8FFF3&bg_color=00000000&include_all_commits=true&count_private=true&custom_title=SYSTEM%20STATISTICS" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVADARSHAN-HM&layout=compact&hide_border=true&theme=transparent&title_color=00FF88&text_color=E8FFF3&bg_color=00000000&langs_count=8&custom_title=CODE%20SIGNATURE" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=SHIVADARSHAN-HM&theme=transparent&hide_border=true&ring=00FF88&fire=00E5FF&currStreakLabel=00FF88&sideLabels=8AA79A&dates=52685D&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+---
+
+# `07 // ACTIVITY STREAM`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVADARSHAN-HM&bg_color=020605&color=00ff88&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20STREAM" width="96%" />
+
+</div>
+
+---
+
+# `08 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Animated contribution snake"/>
+
+</div>
+
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│       "Ideas are cheap. Systems are not."    │
-│                                              │
-│                 — SD                         │
-│                                              │
-╰──────────────────────────────────────────────╯
+┌──────────────────────────────────────────────────────────┐
+│  BUILD  →  BREAK  →  DEBUG  →  LEARN  →  SHIP  →  ∞   │
+└──────────────────────────────────────────────────────────┘
 ```
 
-### `© SHIVA DARSHAN // SYSTEM ONLINE`
+---
+
+# `09 // SYSTEM LOG`
+
+```text
+[BOOT]        SHIVA_OS initialized
+[CORE]        AI / ML systems loaded
+[STACK]       Full-stack modules online
+[DSA]         Problem-solving engine active
+[LAB]         Product experiments running
+[NETWORK]     GitHub uplink established
+[STATUS]      ████████████████████ ONLINE
+```
+
+---
+
+# `10 // ACCESS POINTS`
+
+<div align="center">
+
+<a href="https://s-dportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-050807?style=for-the-badge&logo=vercel&logoColor=white&color=00ff88" /></a>
+<a href="https://github.com/SHIVADARSHAN-HM"><img src="https://img.shields.io/badge/GITHUB-050807?style=for-the-badge&logo=github&logoColor=white&color=00e5ff" /></a>
+<a href="https://leetcode.com/u/Shivadarshan44/"><img src="https://img.shields.io/badge/LEETCODE-050807?style=for-the-badge&logo=leetcode&logoColor=FFA116&color=ffb000" /></a>
+<a href="mailto:shivadarshan600@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050807?style=for-the-badge&logo=gmail&logoColor=white&color=ffffff" /></a>
+
+<br/><br/>
+
+`SYSTEM STATUS :: ONLINE`
+
+<br/>
+
+**BUILD SOMETHING WORTH REMEMBERING.**
 
 </div>
