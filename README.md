@@ -112,11 +112,7 @@
 
 <img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/activity-stream.svg" width="100%" alt="Animated GitHub activity stream HUD"/>
 
-<br/>
 
-<a href="https://github.com/SHIVADARSHAN-HM">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVADARSHAN-HM&theme=github-compact&hide_border=true&area=true" width="96%" alt="GitHub activity graph"/>
-</a>
 
 </div>
 
