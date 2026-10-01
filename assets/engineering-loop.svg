@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1200" y2="0">
+    <stop stop-color="#00FF88"/><stop offset=".5" stop-color="#00E5FF"/><stop offset="1" stop-color="#00FF88"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .dash{stroke-dasharray:12 14;animation:flow 2.4s linear infinite}
+    .scan{animation:scan 3.2s linear infinite}
+    @keyframes flow{to{stroke-dashoffset:-52}}
+    @keyframes scan{0%{transform:translateX(0);opacity:.15}50%{opacity:1}100%{transform:translateX(1160px);opacity:.15}}
+  </style>
+</defs>
+<rect width="1200" height="150" rx="16" fill="#070B0A" stroke="#174D3A"/>
+<text x="30" y="31" fill="#00FF88" font-family="monospace" font-size="12" letter-spacing="3">ENGINEERING LOOP // CONTINUOUS DELIVERY</text>
+
+<path d="M75 88H1125" stroke="#123D2F" stroke-width="8" stroke-linecap="round"/>
+<path d="M75 88H1125" stroke="url(#g)" stroke-width="2" stroke-linecap="round" class="dash" filter="url(#glow)"/>
+
+<g font-family="monospace" font-size="13" font-weight="700" text-anchor="middle">
+  <g fill="#050807" stroke="#00FF88"><circle cx="115" cy="88" r="24"/><circle cx="330" cy="88" r="24"/><circle cx="545" cy="88" r="24"/></g>
+  <g fill="#050807" stroke="#00E5FF"><circle cx="760" cy="88" r="24"/><circle cx="975" cy="88" r="24"/></g>
+  <text x="115" y="93" fill="#00FF88">BUILD</text>
+  <text x="330" y="93" fill="#00FF88">BREAK</text>
+  <text x="545" y="93" fill="#00FF88">DEBUG</text>
+  <text x="760" y="93" fill="#00E5FF">LEARN</text>
+  <text x="975" y="93" fill="#00E5FF">SHIP</text>
+</g>
+<path d="M1010 88H1120" stroke="#00E5FF" stroke-width="2" stroke-dasharray="4 8"/>
+<text x="1150" y="93" fill="#00FF88" font-family="monospace" font-size="18">∞</text>
+<g class="scan" filter="url(#glow)"><rect x="20" y="55" width="2" height="65" fill="#FFFFFF"/></g>
+<text x="30" y="128" fill="#56766A" font-family="monospace" font-size="10" letter-spacing="2">REPEAT // REFINE // RELEASE</text>
+</svg>
