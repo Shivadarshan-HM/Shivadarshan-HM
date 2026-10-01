@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#020507"/><stop offset=".55" stop-color="#06110e"/><stop offset="1" stop-color="#010203"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" x2="1">
+    <stop stop-color="#00ff88"/><stop offset=".5" stop-color="#00e5ff"/><stop offset="1" stop-color="#00ff88"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#00ff88" stroke-opacity=".08"/></pattern>
+  <pattern id="scan" width="4" height="8" patternUnits="userSpaceOnUse"><path d="M0 0H4V1H0Z" fill="#00ff88" opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+<rect width="1200" height="330" rx="18" fill="url(#scan)"/>
+<path d="M0 286H1200" stroke="url(#neon)" stroke-width="2" opacity=".65" filter="url(#glow)"/>
+<path d="M70 55H260M940 55H1130M70 275H260M940 275H1130" stroke="#00ff88" stroke-width="2" opacity=".7"/>
+<circle cx="42" cy="42" r="6" fill="#00ff88" filter="url(#glow)"/>
+<circle cx="1158" cy="42" r="6" fill="#00e5ff" filter="url(#glow)"/>
+<text x="70" y="105" fill="#00ff88" font-family="monospace" font-size="17" letter-spacing="4">SYSTEM // IDENTITY PROTOCOL</text>
+<text x="600" y="178" text-anchor="middle" fill="#f5fff9" font-family="monospace" font-size="68" font-weight="700" letter-spacing="7" filter="url(#glow)">SHIVA DARSHAN</text>
+<text x="600" y="220" text-anchor="middle" fill="url(#neon)" font-family="monospace" font-size="21" letter-spacing="6">AI / ML  ×  FULL STACK  ×  PRODUCT BUILDER</text>
+<text x="70" y="262" fill="#7affbd" font-family="monospace" font-size="14">STATUS: ONLINE</text>
+<text x="600" y="262" text-anchor="middle" fill="#8aa79a" font-family="monospace" font-size="14">BUILDING INTELLIGENT SYSTEMS</text>
+<text x="1130" y="262" text-anchor="end" fill="#00e5ff" font-family="monospace" font-size="14">ACCESS: GRANTED</text>
+<rect x="70" y="292" width="1060" height="3" fill="#0a241a"/>
+<rect x="70" y="292" width="760" height="3" fill="url(#neon)">
+  <animate attributeName="width" values="180;1060;620;1060" dur="4s" repeatCount="indefinite"/>
+</rect>
+<g opacity=".9">
+  <text x="600" y="318" text-anchor="middle" fill="#587065" font-family="monospace" font-size="11" letter-spacing="3">LEARN // BUILD // SHIP // REPEAT</text>
+</g>
+</svg>
