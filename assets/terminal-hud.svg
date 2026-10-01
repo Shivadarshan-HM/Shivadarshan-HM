@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+<defs>
+ <filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="n" x1="0" x2="1"><stop stop-color="#00ff88"/><stop offset=".5" stop-color="#00e5ff"/><stop offset="1" stop-color="#00ff88"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="188" rx="14" fill="#030706" stroke="#0c5d42"/>
+<text x="28" y="34" fill="#00ff88" font-family="monospace" font-size="13" letter-spacing="3">/// SHIVA_OS / LIVE TELEMETRY</text>
+<circle cx="1158" cy="27" r="7" fill="#00ff88" filter="url(#g)">
+ <animate attributeName="opacity" values=".25;1;.25" dur="1.4s" repeatCount="indefinite"/>
+</circle>
+<text x="1138" y="55" text-anchor="end" fill="#75ffc0" font-family="monospace" font-size="11">ONLINE</text>
+<g font-family="monospace">
+ <text x="32" y="78" fill="#799589" font-size="11">CORE</text><text x="32" y="101" fill="#f0fff7" font-size="15">AI / ML</text>
+ <text x="250" y="78" fill="#799589" font-size="11">STACK</text><text x="250" y="101" fill="#f0fff7" font-size="15">FULL STACK</text>
+ <text x="500" y="78" fill="#799589" font-size="11">MODE</text><text x="500" y="101" fill="#f0fff7" font-size="15">BUILD</text>
+ <text x="700" y="78" fill="#799589" font-size="11">FOCUS</text><text x="700" y="101" fill="#f0fff7" font-size="15">GENAI + DSA</text>
+ <text x="930" y="78" fill="#799589" font-size="11">SIGNAL</text><text x="930" y="101" fill="#f0fff7" font-size="15">STABLE</text>
+</g>
+<path d="M32 132H1168" stroke="#103b2d"/>
+<rect x="32" y="147" width="1136" height="8" rx="4" fill="#082116"/>
+<rect x="32" y="147" width="760" height="8" rx="4" fill="url(#n)" filter="url(#g)">
+ <animate attributeName="width" values="380;980;620;1050;760" dur="5s" repeatCount="indefinite"/>
+</rect>
+<text x="32" y="176" fill="#4e7564" font-family="monospace" font-size="10">UPLINK: ACTIVE</text>
+<text x="1168" y="176" text-anchor="end" fill="#4e7564" font-family="monospace" font-size="10">ENCRYPTION: NEON</text>
+</svg>
