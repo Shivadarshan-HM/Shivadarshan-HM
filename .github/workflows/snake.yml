@@ -25,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?color_snake=%2300FF88&color_dots=%23020805,%23051A11,%230A3A24,%23008F5B,%2300FF88
 
       - name: Publish generated assets
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
