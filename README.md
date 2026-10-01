@@ -110,7 +110,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVADARSHAN-HM&bg_color=020605&color=00ff88&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20STREAM" width="96%" />
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/activity-stream.svg" width="100%" alt="Animated GitHub activity stream HUD"/>
+
+<br/>
+
+<a href="https://github.com/SHIVADARSHAN-HM">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVADARSHAN-HM&theme=github-compact&hide_border=true&area=true" width="96%" alt="GitHub activity graph"/>
+</a>
 
 </div>
 
@@ -122,13 +128,11 @@
 
 <img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Animated contribution snake"/>
 
-</div>
+<br/>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  BUILD  →  BREAK  →  DEBUG  →  LEARN  →  SHIP  →  ∞   │
-└──────────────────────────────────────────────────────────┘
-```
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/engineering-loop.svg" width="100%" alt="Animated engineering loop"/>
+
+</div>
 
 ---
 
