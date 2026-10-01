@@ -166,7 +166,7 @@ Cloud    → Vercel / Azure
 
 <a href="https://leetcode.com/u/Shivadarshan44/">
 
-<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Shivadarshan44&theme=dark&hide_border=true&radius=0&border=0&show_profile=true&show_solved=true&show_streak=true&show_skills=true&show_languages=true&show_heatmap=true" width="95%" alt="Shiva Darshan LeetCode statistics"/>
+<img src="https://leetcard.jacoblin.cool/Shivadarshan44?theme=dark&font=JetBrains_Mono&animation=true&border=0&radius=0&ext=heatmap" width="95%" alt="Shiva Darshan LeetCode statistics"/>
 
 </a>
 
