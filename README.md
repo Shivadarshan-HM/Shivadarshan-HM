@@ -30,92 +30,21 @@
 
 ## `01 // WHOAMI`
 
-```text
-> whoami
+<div align="center">
 
-SHIVA DARSHAN
-AI/ML × FULL STACK ENGINEER
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/whoami.svg" width="100%" alt="Animated whoami identity core"/>
 
-I build software at the intersection of:
-→ Artificial Intelligence
-→ Full Stack Engineering
-→ Developer Tools
-→ Product Design
-
-CURRENT OBJECTIVE
-Build useful systems. Understand them deeply. Ship them.
-```
+</div>
 
 ---
 
 ## `02 // ACTIVE PROCESSES`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### `[ PROCESS_01 ]`
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/processes.svg" width="100%" alt="Animated active processes dashboard"/>
 
-```text
-ARCHON AI
-
-Repository Intelligence
-██████████████████░░
-
-STATUS :: BUILDING
-SIGNAL :: ACTIVE
-```
-
-</td>
-<td width="50%" valign="top">
-
-### `[ PROCESS_02 ]`
-
-```text
-GENAI ENGINEERING
-
-LLMs / RAG / AI SYSTEMS
-██████████████░░░░░░
-
-STATUS :: LEARNING
-SIGNAL :: RISING
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `[ PROCESS_03 ]`
-
-```text
-DSA ENGINE
-
-Algorithms / Problem Solving
-████████████░░░░░░░░
-
-STATUS :: TRAINING
-SIGNAL :: LOCKED
-```
-
-</td>
-<td width="50%" valign="top">
-
-### `[ PROCESS_04 ]`
-
-```text
-PRODUCT LAB
-
-Ideas → Systems → Products
-████████████████░░░░
-
-STATUS :: ONLINE
-SIGNAL :: EXPERIMENTAL
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -123,25 +52,9 @@ SIGNAL :: EXPERIMENTAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nextjs,tailwind,vite,threejs,fastapi,flask,nodejs,mongodb,postgres,sqlite,firebase,git,github,vercel,azure,vscode&perline=11" />
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/tech-matrix.svg" width="100%" alt="Animated technology matrix"/>
 
 </div>
-
-```text
-AI / DATA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Python      NumPy      Pandas
-Machine Learning       █████████░░░
-Generative AI          ███████░░░░░
-RAG / LLM Systems      ██████░░░░░░
-
-ENGINEERING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Frontend → React / Next.js / Tailwind / Three.js
-Backend  → FastAPI / Flask / Node.js
-Data     → MongoDB / PostgreSQL / SQLite / Firebase
-Cloud    → Vercel / Azure
-```
 
 ---
 
@@ -149,16 +62,9 @@ Cloud    → Vercel / Azure
 
 <div align="center">
 
-| SYSTEM | DESCRIPTION | STATUS |
-|:---|:---|:---:|
-| **ARCHON AI** | AI-powered repository intelligence for developers | `BUILDING` |
-| **SD PORTFOLIO** | Cinematic personal digital interface | `ONLINE` |
-| **RADIUS CRM** | Client + lead relationship infrastructure | `BUILDING` |
-| **RECOVER PAY** | Payment recovery workflow system | `EXPERIMENTAL` |
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/projects.svg" width="100%" alt="Animated project deployment grid"/>
 
 </div>
-
----
 
 # `05 // LEETCODE PROTOCOL`
 
@@ -228,17 +134,11 @@ Cloud    → Vercel / Azure
 
 # `09 // SYSTEM LOG`
 
-```text
-[BOOT]        SHIVA_OS initialized
-[CORE]        AI / ML systems loaded
-[STACK]       Full-stack modules online
-[DSA]         Problem-solving engine active
-[LAB]         Product experiments running
-[NETWORK]     GitHub uplink established
-[STATUS]      ████████████████████ ONLINE
-```
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/system-log.svg" width="100%" alt="Animated system log console"/>
+
+</div>
 
 # `10 // ACCESS POINTS`
 
