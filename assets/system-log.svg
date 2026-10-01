@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<defs><filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="310" rx="18" fill="#010403" stroke="#0b6345"/><text x="35" y="38" fill="#00ff88" font-family="monospace" font-size="13" letter-spacing="3">SYSTEM LOG // LIVE CONSOLE</text>
+<g font-family="monospace" font-size="14">
+<text x="45" y="82" fill="#527466">[00:00:01]</text><text x="180" y="82" fill="#00ff88">[BOOT]</text><text x="290" y="82" fill="#dffff0">SHIVA_OS initialized</text>
+<text x="45" y="120" fill="#527466">[00:00:02]</text><text x="180" y="120" fill="#00e5ff">[CORE]</text><text x="290" y="120" fill="#dffff0">AI / ML systems loaded</text>
+<text x="45" y="158" fill="#527466">[00:00:03]</text><text x="180" y="158" fill="#00e5ff">[STACK]</text><text x="290" y="158" fill="#dffff0">Full-stack modules online</text>
+<text x="45" y="196" fill="#527466">[00:00:04]</text><text x="180" y="196" fill="#00e5ff">[DSA]</text><text x="290" y="196" fill="#dffff0">Problem-solving engine active</text>
+<text x="45" y="234" fill="#527466">[00:00:05]</text><text x="180" y="234" fill="#00e5ff">[NETWORK]</text><text x="290" y="234" fill="#dffff0">GitHub uplink established</text>
+<text x="45" y="272" fill="#527466">[00:00:06]</text><text x="180" y="272" fill="#00ff88" filter="url(#g)">[STATUS]</text><text x="290" y="272" fill="#fff">████████████████████ ONLINE</text><rect x="1025" y="258" width="8" height="18" fill="#00ff88"><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
+</g></svg>
