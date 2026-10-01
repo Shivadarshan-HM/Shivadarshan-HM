@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="n"><stop stop-color="#00ff88"/><stop offset=".5" stop-color="#00e5ff"/><stop offset="1" stop-color="#00ff88"/></linearGradient><pattern id="s" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 0H6V1H0" fill="#00ff88" opacity=".035"/></pattern></defs>
+<rect width="1200" height="360" rx="18" fill="#020605" stroke="#0b6345"/><rect width="1200" height="360" rx="18" fill="url(#s)"/>
+<text x="38" y="38" fill="#00ff88" font-family="monospace" font-size="13" letter-spacing="3">WHOAMI // IDENTITY CORE</text>
+<circle cx="1140" cy="31" r="7" fill="#00ff88" filter="url(#g)"><animate attributeName="opacity" values=".15;1;.15" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="1118" y="57" fill="#6affb5" font-family="monospace" font-size="10">CONNECTED</text>
+<text x="55" y="105" fill="#526d61" font-family="monospace" font-size="13">&gt; whoami</text>
+<text x="55" y="148" fill="#f2fff8" font-family="monospace" font-size="31" font-weight="700">SHIVA DARSHAN</text>
+<text x="55" y="180" fill="url(#n)" font-family="monospace" font-size="17">AI/ML × FULL STACK ENGINEER</text>
+<path d="M55 207H1145" stroke="#12392c"/>
+<text x="55" y="240" fill="#9ab7aa" font-family="monospace" font-size="13">I build software at the intersection of:</text>
+<text x="55" y="266" fill="#dfffee" font-family="monospace" font-size="13">→ Artificial Intelligence</text>
+<text x="305" y="266" fill="#dfffee" font-family="monospace" font-size="13">→ Full Stack Engineering</text>
+<text x="610" y="266" fill="#dfffee" font-family="monospace" font-size="13">→ Developer Tools</text>
+<text x="850" y="266" fill="#dfffee" font-family="monospace" font-size="13">→ Product Design</text>
+<text x="55" y="311" fill="#00e5ff" font-family="monospace" font-size="12">CURRENT OBJECTIVE</text>
+<text x="260" y="311" fill="#ffffff" font-family="monospace" font-size="12">Build useful systems. Understand them deeply. Ship them.</text>
+<rect x="55" y="326" width="1090" height="3" fill="#0a241a"/><rect x="55" y="326" width="250" height="3" fill="url(#n)"><animate attributeName="x" values="55;895;55" dur="3.5s" repeatCount="indefinite"/></rect>
+</svg>
