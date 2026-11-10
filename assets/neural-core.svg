@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330"><defs><linearGradient id="n"><stop stop-color="#00ff88"/><stop offset="1" stop-color="#00e5ff"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.pulse{animation:p 2.4s ease-in-out infinite}.travel{stroke-dasharray:7 15;animation:t 2s linear infinite}@keyframes p{50%{opacity:.3}}@keyframes t{to{stroke-dashoffset:-44}}</style></defs><rect width="1200" height="330" rx="18" fill="#040907" stroke="#126044"/><text x="32" y="34" fill="#00ff88" font-family="monospace" font-size="13" letter-spacing="3">NEURAL CORE // AI SYSTEMS</text><text x="1165" y="34" fill="#668879" font-family="monospace" font-size="10" text-anchor="end">SIGNAL ROUTING :: ACTIVE</text><g stroke="#0e6848" stroke-width="2" fill="none"><path d="M160 160L370 95L590 160L820 85L1030 160M160 160L370 235L590 160L820 245L1030 160M370 95L370 235M820 85L820 245M590 160L1030 160"/></g><g stroke="url(#n)" stroke-width="2" fill="none" class="travel" filter="url(#glow)"><path d="M160 160L370 95L590 160L820 85L1030 160M160 160L370 235L590 160L820 245L1030 160"/></g><g fill="#06140e" stroke="#00ff88" stroke-width="2"><circle cx="160" cy="160" r="28"/><circle cx="370" cy="95" r="22"/><circle cx="370" cy="235" r="22"/><circle cx="590" cy="160" r="38"/><circle cx="820" cy="85" r="22"/><circle cx="820" cy="245" r="22"/><circle cx="1030" cy="160" r="28"/></g><g fill="#eafff5" font-family="monospace" font-size="11" text-anchor="middle"><text x="160" y="164">INPUT</text><text x="370" y="99">DATA</text><text x="370" y="239">CONTEXT</text><text x="590" y="164" fill="#00ff88" font-size="14">LLM</text><text x="820" y="89">REASON</text><text x="820" y="249">RETRIEVE</text><text x="1030" y="164">OUTPUT</text></g><circle cx="590" cy="160" r="52" stroke="#00e5ff" opacity=".5" fill="none" class="pulse"/><text x="32" y="300" fill="#789b8d" font-family="monospace" font-size="11" letter-spacing="2">EXPLORE // MODEL // RETRIEVE // REASON // SHIP</text><text x="1165" y="300" fill="#00ff88" font-family="monospace" font-size="11" text-anchor="end">HUMAN + MACHINE</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00ff88"/><stop offset="1" stop-color="#00e5ff"/></linearGradient></defs>
+<rect width="1200" height="300" rx="18" fill="#030907" stroke="#12563b" stroke-width="2"/>
+<text x="34" y="38" fill="#00ff88" font-family="monospace" font-size="13" letter-spacing="4">NEURAL CORE // ENGINEERING MODEL</text>
+<text x="1165" y="38" fill="#5e8d78" text-anchor="end" font-family="monospace" font-size="11">CONCEPTUAL PIPELINE</text>
+<g stroke="#126044" stroke-width="2" fill="none"><path d="M205 145H300M430 145H525M695 145H790M920 145H1015"/></g>
+<g fill="#061b13" stroke="url(#g)" stroke-width="2">
+<rect x="35" y="94" width="170" height="102" rx="10"/><rect x="300" y="94" width="130" height="102" rx="10"/><rect x="525" y="94" width="170" height="102" rx="10"/><rect x="790" y="94" width="130" height="102" rx="10"/><rect x="1015" y="94" width="150" height="102" rx="10"/>
+</g>
+<g fill="#eafff4" font-family="monospace" text-anchor="middle">
+<text x="120" y="133" font-size="17">INPUT</text><text x="120" y="159" fill="#75a991" font-size="11">DATA / SIGNAL</text>
+<text x="365" y="133" font-size="17">CONTEXT</text><text x="365" y="159" fill="#75a991" font-size="11">RETRIEVAL</text>
+<text x="610" y="133" font-size="17">MODEL CORE</text><text x="610" y="159" fill="#75a991" font-size="11">REASONING</text>
+<text x="855" y="133" font-size="17">ACTION</text><text x="855" y="159" fill="#75a991" font-size="11">TOOLS / API</text>
+<text x="1090" y="133" font-size="17">OUTPUT</text><text x="1090" y="159" fill="#75a991" font-size="11">USEFUL RESULT</text>
+</g>
+<g fill="#00ff88"><circle cx="252" cy="145" r="4"/><circle cx="477" cy="145" r="4"/><circle cx="742" cy="145" r="4"/><circle cx="967" cy="145" r="4"/></g>
+<path d="M35 230H1165" stroke="#153c2b"/>
+<text x="35" y="260" fill="#7fa996" font-family="monospace" font-size="13">THE LOOP: UNDERSTAND → RETRIEVE → REASON → EXECUTE → VALIDATE</text>
+<text x="1165" y="260" fill="url(#g)" text-anchor="end" font-family="monospace" font-size="13">HUMAN + MACHINE</text>
+</svg>
