@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/cyberpunk-banner.svg" width="100%" alt="Shiva Darshan cyberpunk banner"/>
 
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/shiva-matrix.svg" width="100%" alt="Shiva Darshan Matrix identity portrait"/>
+
 <br/>
 
 <a href="https://s-dportfolio.vercel.app/"><img src="https://img.shields.io/badge/◈_PORTFOLIO-050807?style=for-the-badge&labelColor=050807&color=00ff88" /></a>
