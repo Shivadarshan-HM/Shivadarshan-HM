@@ -2,18 +2,17 @@
 <defs>
  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020806"/><stop offset=".55" stop-color="#03130d"/><stop offset="1" stop-color="#020807"/></linearGradient>
  <linearGradient id="neon"><stop stop-color="#00ff88"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#00ff88" stroke-opacity=".10" stroke-width="1"/></pattern>
+ <clipPath id="portraitClip"><rect x="790" y="28" width="365" height="404" rx="12"/></clipPath>
 </defs>
 <rect width="1200" height="460" rx="18" fill="url(#bg)" stroke="#08764b" stroke-width="2"/>
 <rect width="1200" height="460" rx="18" fill="url(#grid)"/>
-<g fill="#00ff88" opacity=".42" font-family="monospace" font-size="13">
- <text x="820" y="35"><animate attributeName="y" values="-20;460" dur="7s" repeatCount="indefinite"/>0101011010010110</text>
- <text x="875" y="10"><animate attributeName="y" values="-80;460" dur="9s" repeatCount="indefinite"/>1100100101011010</text>
- <text x="940" y="0"><animate attributeName="y" values="-40;460" dur="8s" repeatCount="indefinite"/>0011010100110101</text>
- <text x="1005" y="15"><animate attributeName="y" values="-100;460" dur="10s" repeatCount="indefinite"/>1010011010100101</text>
- <text x="1070" y="5"><animate attributeName="y" values="-60;460" dur="7.5s" repeatCount="indefinite"/>0101100101101010</text>
- <text x="1130" y="25"><animate attributeName="y" values="-90;460" dur="8.5s" repeatCount="indefinite"/>1101010010110010</text>
+<g fill="#00ff88" opacity=".38" font-family="monospace" font-size="13">
+ <text x="820" y="35">0101011010010110<animate attributeName="y" values="-20;460" dur="7s" repeatCount="indefinite"/></text>
+ <text x="875" y="10">1100100101011010<animate attributeName="y" values="-80;460" dur="9s" repeatCount="indefinite"/></text>
+ <text x="940" y="0">0011010100110101<animate attributeName="y" values="-40;460" dur="8s" repeatCount="indefinite"/></text>
+ <text x="1005" y="15">1010011010100101<animate attributeName="y" values="-100;460" dur="10s" repeatCount="indefinite"/></text>
 </g>
 <g font-family="monospace">
  <path d="M30 30H245M30 30V78M1170 30H1150V78" fill="none" stroke="#00ff88" stroke-width="2"/>
@@ -31,34 +30,22 @@
  <text x="56" y="388" fill="#6a9d84" font-size="12" letter-spacing="3">LEARN  //  BUILD  //  SHIP  //  REPEAT</text>
  <text x="56" y="428" fill="#00e5ff" font-size="11">IDENTITY VERIFIED  •  HUMAN + MACHINE</text>
 </g>
-<g>
- <rect x="790" y="28" width="365" height="404" rx="12" fill="#04140d" stroke="#00e5a0" stroke-width="2"/>
- <rect x="790" y="28" width="365" height="404" rx="12" fill="url(#grid)" opacity=".8"/>
- <g fill="#00ff88" opacity=".52" font-family="monospace" font-size="15">
-  <text x="815" y="60">01001011<animate attributeName="y" values="50;420" dur="6s" repeatCount="indefinite"/></text>
-  <text x="860" y="30">10110100<animate attributeName="y" values="20;420" dur="7s" repeatCount="indefinite"/></text>
-  <text x="915" y="45">00101101<animate attributeName="y" values="35;420" dur="8s" repeatCount="indefinite"/></text>
-  <text x="970" y="20">11001010<animate attributeName="y" values="10;420" dur="6.5s" repeatCount="indefinite"/></text>
-  <text x="1030" y="40">01010110<animate attributeName="y" values="30;420" dur="7.5s" repeatCount="indefinite"/></text>
-  <text x="1090" y="25">10100101<animate attributeName="y" values="15;420" dur="9s" repeatCount="indefinite"/></text>
- </g>
- <path d="M810 140H1135M810 310H1135" stroke="#00ff88" opacity=".25"/>
- <text x="972" y="205" fill="#eafff4" text-anchor="middle" font-family="monospace" font-size="26" letter-spacing="4">MATRIX</text>
- <text x="972" y="235" fill="#00e5ff" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="3">IDENTITY GRID</text>
- <circle cx="972" cy="220" r="120" fill="none" stroke="#00ff88" stroke-width="2" stroke-dasharray="24 12" opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 972 220" to="360 972 220" dur="38s" repeatCount="indefinite"/></circle>
- <circle cx="972" cy="220" r="145" fill="none" stroke="#00e5ff" stroke-width="1" stroke-dasharray="3 13" opacity=".5"/>
- <path d="M810 75h34v-18m257 0v18h34M810 385h34v18m257 0v-18h34" fill="none" stroke="#00ff88" stroke-width="2"/>
- <text x="812" y="414" fill="#8effc4" font-family="monospace" font-size="11">PERSONAL MATRIX // ACTIVE</text>
- <text x="1135" y="414" fill="#8effc4" font-family="monospace" font-size="11" text-anchor="end">SHIVA_OS v2.2</text>
+<!-- The actual portrait is embedded in this SVG as a data URI: no external image request. -->
+<g clip-path="url(#portraitClip)">
+ <image xlink:href="data:image/jpeg;base64,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" x="790" y="-94" width="365" height="648" preserveAspectRatio="none"/>
+ <rect x="790" y="28" width="365" height="404" fill="#00180f" opacity=".12"/>
+ <rect x="790" y="28" width="365" height="404" fill="url(#grid)" opacity=".22"/>
+ <path d="M790 118H1155M790 345H1155" stroke="#00ff88" opacity=".35"/>
 </g>
+<rect x="790" y="28" width="365" height="404" rx="12" fill="none" stroke="#00e5a0" stroke-width="2"/>
 <g fill="none" stroke="#00ff88" stroke-width="2" filter="url(#glow)">
- <circle cx="972" cy="228" r="164" stroke-dasharray="24 12" opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 972 228" to="360 972 228" dur="38s" repeatCount="indefinite"/></circle>
- <circle cx="972" cy="228" r="176" stroke-dasharray="3 13" opacity=".5"/>
+ <circle cx="972" cy="228" r="164" stroke-dasharray="24 12" opacity=".7"><animateTransform attributeName="transform" type="rotate" from="0 972 228" to="360 972 228" dur="38s" repeatCount="indefinite"/></circle>
+ <circle cx="972" cy="228" r="176" stroke-dasharray="3 13" opacity=".42"/>
  <path d="M810 75h34v-18m257 0v18h34M810 385h34v18m257 0v-18h34"/>
 </g>
-<g font-family="monospace" font-size="11" fill="#8effc4">
+<g font-family="monospace" font-size="11" fill="#d0ffe6">
  <text x="812" y="414">FACE SCAN :: VERIFIED</text>
- <text x="1135" y="414" text-anchor="end">SHIVA_OS v2.1</text>
+ <text x="1135" y="414" text-anchor="end">SHIVA_OS v2.3</text>
 </g>
 <path d="M30 447H1170" stroke="#0b5b3b"/>
 <rect x="30" y="444" width="220" height="3" fill="url(#neon)"><animate attributeName="x" values="30;950;30" dur="6s" repeatCount="indefinite"/></rect>
