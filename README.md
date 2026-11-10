@@ -36,6 +36,14 @@
 
 </div>
 
+### `01.1 // NEURAL CORE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/neural-core.svg" width="100%" alt="Animated AI neural core showing input, context, LLM reasoning, retrieval and output"/>
+
+</div>
+
 ---
 
 ## `02 // ACTIVE PROCESSES`
@@ -94,6 +102,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/telemetry-frame.svg" width="100%" alt="Animated GitHub telemetry frame"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=SHIVADARSHAN-HM&show_icons=true&hide_border=true&theme=transparent&title_color=00FF88&icon_color=00E5FF&text_color=E8FFF3&bg_color=00000000&include_all_commits=true&count_private=true&custom_title=SYSTEM%20STATISTICS" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVADARSHAN-HM&layout=compact&hide_border=true&theme=transparent&title_color=00FF88&text_color=E8FFF3&bg_color=00000000&langs_count=8&custom_title=CODE%20SIGNATURE" height="180"/>
@@ -123,6 +133,10 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Animated contribution snake"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/contribution-reactor.svg" width="100%" alt="Animated contribution reactor"/>
 
 <br/>
 
