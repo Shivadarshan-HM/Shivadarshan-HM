@@ -2,10 +2,8 @@
 <defs>
  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#020806"/><stop offset=".55" stop-color="#03130d"/><stop offset="1" stop-color="#020807"/></linearGradient>
  <linearGradient id="neon"><stop stop-color="#00ff88"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
- <linearGradient id="fade"><stop stop-color="#020806" stop-opacity="0"/><stop offset=".2" stop-color="#020806" stop-opacity=".12"/><stop offset="1" stop-color="#020806" stop-opacity=".65"/></linearGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#00ff88" stroke-opacity=".10" stroke-width="1"/></pattern>
- <clipPath id="portrait"><rect x="790" y="28" width="365" height="404" rx="12"/></clipPath>
 </defs>
 <rect width="1200" height="460" rx="18" fill="url(#bg)" stroke="#08764b" stroke-width="2"/>
 <rect width="1200" height="460" rx="18" fill="url(#grid)"/>
@@ -33,13 +31,26 @@
  <text x="56" y="388" fill="#6a9d84" font-size="12" letter-spacing="3">LEARN  //  BUILD  //  SHIP  //  REPEAT</text>
  <text x="56" y="428" fill="#00e5ff" font-size="11">IDENTITY VERIFIED  •  HUMAN + MACHINE</text>
 </g>
-<g clip-path="url(#portrait)">
- <image xlink:href="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/shiva-mini.jpg" x="790" y="28" width="365" height="404" preserveAspectRatio="xMidYMid slice"/>
- <rect x="790" y="28" width="365" height="404" fill="url(#fade)"/>
- <rect x="790" y="28" width="365" height="404" fill="url(#grid)" opacity=".55"/>
- <path d="M790 140H1155M790 310H1155" stroke="#00ff88" opacity=".35"/>
+<g>
+ <rect x="790" y="28" width="365" height="404" rx="12" fill="#04140d" stroke="#00e5a0" stroke-width="2"/>
+ <rect x="790" y="28" width="365" height="404" rx="12" fill="url(#grid)" opacity=".8"/>
+ <g fill="#00ff88" opacity=".52" font-family="monospace" font-size="15">
+  <text x="815" y="60">01001011<animate attributeName="y" values="50;420" dur="6s" repeatCount="indefinite"/></text>
+  <text x="860" y="30">10110100<animate attributeName="y" values="20;420" dur="7s" repeatCount="indefinite"/></text>
+  <text x="915" y="45">00101101<animate attributeName="y" values="35;420" dur="8s" repeatCount="indefinite"/></text>
+  <text x="970" y="20">11001010<animate attributeName="y" values="10;420" dur="6.5s" repeatCount="indefinite"/></text>
+  <text x="1030" y="40">01010110<animate attributeName="y" values="30;420" dur="7.5s" repeatCount="indefinite"/></text>
+  <text x="1090" y="25">10100101<animate attributeName="y" values="15;420" dur="9s" repeatCount="indefinite"/></text>
+ </g>
+ <path d="M810 140H1135M810 310H1135" stroke="#00ff88" opacity=".25"/>
+ <text x="972" y="205" fill="#eafff4" text-anchor="middle" font-family="monospace" font-size="26" letter-spacing="4">MATRIX</text>
+ <text x="972" y="235" fill="#00e5ff" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="3">IDENTITY GRID</text>
+ <circle cx="972" cy="220" r="120" fill="none" stroke="#00ff88" stroke-width="2" stroke-dasharray="24 12" opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 972 220" to="360 972 220" dur="38s" repeatCount="indefinite"/></circle>
+ <circle cx="972" cy="220" r="145" fill="none" stroke="#00e5ff" stroke-width="1" stroke-dasharray="3 13" opacity=".5"/>
+ <path d="M810 75h34v-18m257 0v18h34M810 385h34v18m257 0v-18h34" fill="none" stroke="#00ff88" stroke-width="2"/>
+ <text x="812" y="414" fill="#8effc4" font-family="monospace" font-size="11">PERSONAL MATRIX // ACTIVE</text>
+ <text x="1135" y="414" fill="#8effc4" font-family="monospace" font-size="11" text-anchor="end">SHIVA_OS v2.2</text>
 </g>
-<rect x="790" y="28" width="365" height="404" rx="12" fill="none" stroke="#00e5a0" stroke-width="2"/>
 <g fill="none" stroke="#00ff88" stroke-width="2" filter="url(#glow)">
  <circle cx="972" cy="228" r="164" stroke-dasharray="24 12" opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 972 228" to="360 972 228" dur="38s" repeatCount="indefinite"/></circle>
  <circle cx="972" cy="228" r="176" stroke-dasharray="3 13" opacity=".5"/>
