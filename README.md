@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/shiva-matrix.svg" width="100%" alt="Shiva Darshan Matrix identity portrait"/>
 
-<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/shiva-mini.jpg" width="180" alt="Shiva Darshan portrait"/>
+<img src="https://raw.githubusercontent.com/SHIVADARSHAN-HM/SHIVADARSHAN-HM/main/assets/shiva-mini.jpg" width="320" alt="Shiva Darshan portrait"/>
 
 <br/>
 
